@@ -1,0 +1,9 @@
+# LEARN FROM XYZ PLATFORM
+
+## INSTALL
+
+
+THIS IS SOME INSTALLATION INFO
+''' bash 
+npm install 
+''''
